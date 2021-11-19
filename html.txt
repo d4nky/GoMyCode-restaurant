@@ -1,0 +1,43 @@
+Navbar : Home - Login - About
+link between nav items
+
+Home page : 
+	
+	h1 : Name of the restaurant
+	
+	section :
+
+		img
+		h2 : prix
+		<p>description<p>
+		liste des ingrédiants
+		button commander qui t'envoie vers un site
+
+		img
+		h2 : prix
+		<p>description<p>
+		liste des ingrédiants
+		button commander qui t'envoie vers un site
+		
+		img
+		h2 : prix
+		<p>description<p>
+		liste des ingrédiants
+		button commander qui t'envoie vers un site
+
+Login : 
+	Deux input email et mot de passe
+	button se connecter
+
+About : 
+	<div>
+	h1 : à propos du restaurant
+	<img> : img d'un resto
+	<p> à propos du resto
+
+	h1 : contactez nous: 
+	liste : adrésse numero email
+
+ 
+	 
+	
