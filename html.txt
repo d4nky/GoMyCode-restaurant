@@ -38,6 +38,13 @@ About :
 	h1 : contactez nous: 
 	liste : adrésse numero email
 
+
+Page : Profile : 
+	header : My Profile
+	form :
+	inputs : nom, prenom, age, adresse, date de naissance 
+	tout les inputs devraient avoir une valeur par défaut (cherchez sur google)
+	Quand vous clickez sur se connecter de la page login.html vous êtes redirigé à la page du profile.html
  
 	 
 	
